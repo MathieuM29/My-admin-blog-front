@@ -1,0 +1,19 @@
+{
+  "name": "my-admin-blog-front",
+  "version": "1.0.0",
+  "description": "This is the front application who works with my API : My-admin-blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathieuM29/My-admin-blog-front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathieuM29/My-admin-blog-front/issues"
+  },
+  "homepage": "https://github.com/MathieuM29/My-admin-blog-front#readme"
+}
